@@ -39,7 +39,7 @@ ________________________________________
 ________________________________________
 ▶️ How to Run the Project
 1.	Clone the repository:
-2.	git clone https://github.com/USERNAME/REPO_NAME.git
+2.	git clone
 3.	Navigate to the project folder:
 4.	cd quiz-app
 5.	Install dependencies:
