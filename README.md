@@ -54,7 +54,7 @@ ________________________________________
 •	Building interactive UI applications
 ________________________________________
 🌐 Live Demo
-👉[ https://your-live-demo-link.netlify.app](http://localhost:5173/)![Uploading Screenshot 2025-12-15 224903.png…]()
+👉[ https://your-live-demo-link.netlify.app](http://localhost:5173/)
 
 
 ________________________________________
