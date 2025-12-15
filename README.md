@@ -54,9 +54,10 @@ ________________________________________
 •	Building interactive UI applications
 ________________________________________
 🌐 Live Demo
-👉 https://your-live-demo-link.netlify.app
+👉[ https://your-live-demo-link.netlify.app](http://localhost:5173/)
 ________________________________________
 📸 Screenshots
 (Add screenshots of the Quiz App UI here)
 
-**
+
+<img width="1413" height="1001" alt="Screenshot 2025-12-15 224830" src="https://github.com/user-attachments/assets/ca9340cb-f224-4438-af15-0ba256d81385" />
