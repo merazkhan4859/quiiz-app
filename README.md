@@ -1,6 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.<img width="1071" height="1024" alt="Screenshot 2025-12-15 224903" src="https://github.com/user-attachments/assets/41db24b3-6281-4076-9bb4-0e5925d2945c" />
+
 
 Currently, two official plugins are available:
 
@@ -54,8 +55,11 @@ ________________________________________
 •	Building interactive UI applications
 ________________________________________
 🌐 Live Demo
-👉[ https://your-live-demo-link.netlify.app](http://localhost:5173/)
-________________________________________
+👉[ https://your-live-demo-link.netlify.app](http://localhost:5173/)![Uploading Screenshot 2025-12-15 224903.png…]()
+
+
+________________________________________<img width="1085" height="987" alt="Screenshot 2025-12-15 225002" src="https://github.com/user-attachments/assets/6f68ecfa-f3a1-4bd1-ab8f-c35b0376e8a2" />
+
 📸 Screenshots
 (Add screenshots of the Quiz App UI here)
 
